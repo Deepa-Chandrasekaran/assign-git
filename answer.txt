@@ -1,0 +1,9 @@
+•What is a gitignore file and what should it include for a Java project?
+  gitignore  file contains files that has to be ignored.
+•What does fast-forward in Git mean?
+  A fast forward is what git does when you merge or rebase against a branch that is simply ahead the one you have checked-out. 
+•Why should you have different branches?
+ Git offers a feature referred to as a worktree, and what it does is allow you to have multiple branches running at the sametime.
+•In a project how many remote Git repositories do you usually have?
+ You can have as many remotes as you want, but you can only have one reotre named "origin". The remote called "origin" is not 
+special in anyway, except that it is the default remote created by Git when you clone an existing repository.
